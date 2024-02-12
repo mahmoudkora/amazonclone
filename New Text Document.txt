@@ -1,0 +1,64 @@
+behavior for project 
+admin res =>{
+create category 
+add product 
+remove product 
+edit product
+}
+category{
+name: string,
+id:number,&int
+}
+product {
+name: string,
+id: number,
+quantity : number,
+price : float,
+img:string,
+categoryID:number,
+}
+
+function for category by admin {
+add category(){}:void
+}
+function for product by admin {
+add product (){}:void
+remove product (){}:void
+edit product (){}:void 
+}
+
+
+
+
+
+
+
+
+
+
+
+frontend reqirements:
+search engine with search btn
+add to cart
+cart defination  
+
+confim massage for add or remove any thing
+
+
+
+
+
+
+
+what we need 
+backend: 
+
+insert product{img , name ,descraption ,uniqe=id} , with category
+make every collection has own name loke food mens wear
+delete product
+update product
+
+frontend:
+ auth,
+profile,
+produect, 

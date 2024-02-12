@@ -1,0 +1,8 @@
+mainPage => boxes contains name of category and offers
+every category  => category has his page => all product for this category 
+every product => has title - disc - brand name - rating - imgs[] - colors avilable
+there is filter by 
+rating 
+brand
+price 
+sku

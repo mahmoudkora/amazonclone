@@ -1,0 +1,10 @@
+do spinners to all component
+
+do page for add to product for seller 
+
+do login and register component 
+
+do add to wishlist
+
+authantication 
+  
